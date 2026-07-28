@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-nu16a7.salamcuanwin.cfd/sitemap.xml
